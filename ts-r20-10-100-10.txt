@@ -1,0 +1,18 @@
+No. of experiments: 10
+No. of iterations per experiment: 100
+No. of iterations in Tabu: 10
+Solution: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0] - quality: 785, weight: 522/524
+Solution: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1] - quality: 782, weight: 521/524
+Solution: [0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0] - quality: 773, weight: 523/524
+Solution: [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1] - quality: 776, weight: 520/524
+Solution: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0] - quality: 779, weight: 522/524
+Solution: [0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0] - quality: 773, weight: 523/524
+Solution: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0] - quality: 785, weight: 522/524
+Solution: [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1] - quality: 751, weight: 518/524
+Solution: [0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1] - quality: 752, weight: 523/524
+Solution: [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0] - quality: 779, weight: 521/524
+---
+BEST SOLUTION
+Solution: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0] - quality: 785, weight: 522/524
+Average quality 774
+---
